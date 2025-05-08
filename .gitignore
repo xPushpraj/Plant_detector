@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Kaggle API credentials
+kaggle.json
+*.kaggle
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dataset files (since they're on Kaggle)
+data/
+datasets/
+!data/plants_info.json  # Keep this config file
+
+# Model files (large binaries)
+*.h5
+*.hdf5
+*.tflite
+*.pb
+*.onnx
+
+# Training checkpoints
+checkpoints/
+weights/
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+logs/
+outputs/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Temp files
+*.tmp
+*.temp
+
+# Large files (>100MB)
+*largefile*
+
+# Kaggle competition files
+*.csv
+*.zip
+*.gz
