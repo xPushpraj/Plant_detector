@@ -1,0 +1,487 @@
+{
+    "Acer_palmatum": {
+      "common_name": "Japanese Maple",
+      "scientific_name": "Acer palmatum",
+      "description": "Acer palmatum, commonly known as Japanese Maple, is a deciduous shrub or small tree prized for its vibrant foliage, which displays stunning red, orange, or purple hues, especially in autumn. Widely used in ornamental gardening, it thrives in temperate climates and is a staple in Japanese garden designs."
+    },
+    "Almond": {
+      "common_name": "Almond",
+      "scientific_name": "Prunus dulcis",
+      "description": "Almond is a deciduous tree cultivated for its edible seeds, commonly known as almonds. Native to the Middle East, it is valued for its nutritional benefits, including high vitamin E and healthy fats. The tree also produces delicate pink or white blossoms."
+    },
+    "Aloevera": {
+      "common_name": "Aloe Vera",
+      "scientific_name": "Aloe vera",
+      "description": "Aloe vera is a succulent plant with thick, fleshy leaves containing a gel widely used in cosmetics and medicine. Known for its soothing, anti-inflammatory, and wound-healing properties, it is a popular home remedy for skin conditions and burns."
+    },
+    "Amla": {
+      "common_name": "Indian Gooseberry",
+      "scientific_name": "Phyllanthus emblica",
+      "description": "Amla is a deciduous tree native to India, revered in Ayurveda for its high vitamin C content and antioxidant properties. Its tart, green fruits are used in traditional medicines, hair care products, and culinary dishes to boost immunity and digestion."
+    },
+    "Amruta_Balli": {
+      "common_name": "Giloy",
+      "scientific_name": "Tinospora cordifolia",
+      "description": "Amruta Balli, or Giloy, is a climbing shrub used in Ayurveda for its immune-boosting and anti-inflammatory properties. Its stems and leaves are used to treat fever, diabetes, and respiratory issues, earning it the nickname 'nectar of immortality' in traditional medicine."
+    },
+    "Arali": {
+      "common_name": "Nerium",
+      "scientific_name": "Nerium oleander",
+      "description": "Arali, or Oleander, is an evergreen shrub with vibrant pink, red, or white flowers. Commonly used in ornamental gardening, it is highly toxic if ingested, but its extracts have been studied for potential medicinal applications in cardiac treatments."
+    },
+    "Ashoka": {
+      "common_name": "Ashoka Tree",
+      "scientific_name": "Saraca asoca",
+      "description": "Ashoka is a sacred tree in India, valued in Ayurveda for its bark, which is used to treat gynecological disorders and improve reproductive health. Its bright orange-red flowers and lush foliage make it a popular ornamental plant in tropical regions."
+    },
+    "Ashwagandha": {
+      "common_name": "Ashwagandha",
+      "scientific_name": "Withania somnifera",
+      "description": "Ashwagandha is a small shrub with potent medicinal roots used in Ayurveda to reduce stress, enhance stamina, and improve cognitive function. Known as an adaptogen, it is widely used in supplements for its anti-anxiety and rejuvenating properties."
+    },
+    "Avocado": {
+      "common_name": "Avocado",
+      "scientific_name": "Persea americana",
+      "description": "Avocado is a tropical evergreen tree cultivated for its creamy, nutrient-rich fruit. Packed with healthy fats, vitamins, and minerals, avocados are a dietary staple. The tree’s dark green leaves and pear-shaped fruits make it a popular backyard plant."
+    },
+    "Bamboo": {
+      "common_name": "Bamboo",
+      "scientific_name": "Bambusa spp.",
+      "description": "Bamboo is a fast-growing grass with woody stems used in construction, furniture, and as an ornamental plant. Its versatility, sustainability, and graceful appearance make it a favorite in landscaping and eco-friendly industries."
+    },
+    "Banana": {
+      "common_name": "Banana",
+      "scientific_name": "Musa spp.",
+      "description": "Banana is a tropical herbaceous plant grown for its sweet, elongated fruit. Rich in potassium and vitamins, bananas are a global dietary staple. The plant’s large, lush leaves also contribute to its ornamental appeal in gardens."
+    },
+    "Basale": {
+      "common_name": "Malabar Spinach",
+      "scientific_name": "Basella alba",
+      "description": "Basale is a fast-growing, leafy vine used as a nutritious vegetable in Asian and African cuisines. Rich in vitamins A and C, its succulent leaves and stems are consumed for their antioxidant and digestive benefits."
+    },
+    "Betel": {
+      "common_name": "Betel Leaf",
+      "scientific_name": "Piper betle",
+      "description": "Betel is a climbing vine cultivated for its heart-shaped leaves, commonly chewed with areca nut in Asia for mild stimulant effects. It has antimicrobial properties and is used in traditional medicine for oral health and digestion."
+    },
+    "Betel_Nut": {
+      "common_name": "Areca Nut",
+      "scientific_name": "Areca catechu",
+      "description": "Betel Nut, or Areca Palm, is a tropical tree grown for its seeds, chewed as a stimulant in many cultures. While it holds cultural significance, excessive use is linked to health risks, including oral cancer."
+    },
+    "Bougainvillea": {
+      "common_name": "Bougainvillea",
+      "scientific_name": "Bougainvillea spp.",
+      "description": "Bougainvillea is a vibrant, thorny vine or shrub known for its colorful bracts in shades of pink, purple, and red. A popular ornamental plant, it thrives in warm climates and is used in hedges and garden displays."
+    },
+    "Brahmi": {
+      "common_name": "Brahmi",
+      "scientific_name": "Bacopa monnieri",
+      "description": "Brahmi is a creeping herb used in Ayurveda for its cognitive-enhancing properties. It is believed to improve memory, reduce anxiety, and support brain health, making it a staple in herbal supplements and traditional remedies."
+    },
+    "Cardamom": {
+      "common_name": "Cardamom",
+      "scientific_name": "Elettaria cardamomum",
+      "description": "Cardamom is a perennial herb grown for its aromatic seeds, used as a spice in culinary dishes and traditional medicine. Native to India, it aids digestion and has antioxidant properties, with a distinctive sweet-spicy flavor."
+    },
+    "Castor": {
+      "common_name": "Castor Bean",
+      "scientific_name": "Ricinus communis",
+      "description": "Castor is a fast-growing shrub cultivated for its seeds, which yield castor oil used in cosmetics, medicine, and industry. Though highly toxic if ingested, it is also grown for its ornamental foliage in gardens."
+    },
+    "Cedrus_deodara": {
+      "common_name": "Deodar Cedar",
+      "scientific_name": "Cedrus deodara",
+      "description": "Cedrus deodara is a majestic evergreen conifer native to the Himalayas, valued for its durable wood and ornamental qualities. Its aromatic timber is used in construction, and its needles have antiseptic properties in traditional medicine."
+    },
+    "Celtis_sinensis": {
+      "common_name": "Chinese Hackberry",
+      "scientific_name": "Celtis sinensis",
+      "description": "Celtis sinensis is a deciduous tree valued for its shade and ornamental qualities in urban landscapes. Its small, edible fruits attract birds, and its wood is used in furniture, making it a versatile landscaping choice."
+    },
+    "Cherry": {
+      "common_name": "Cherry",
+      "scientific_name": "Prunus avium",
+      "description": "Cherry is a deciduous tree grown for its sweet or tart fruits and beautiful spring blossoms. Rich in antioxidants, cherries are consumed fresh, dried, or in desserts, while the tree’s wood is prized for furniture."
+    },
+    "Chilli": {
+      "common_name": "Chilli Pepper",
+      "scientific_name": "Capsicum spp.",
+      "description": "Chilli is a pungent, fruit-bearing plant used worldwide as a spice and in traditional medicine. Rich in capsaicin, it has pain-relieving and metabolism-boosting properties, making it a staple in culinary and herbal applications."
+    },
+    "Cinnamomum_camphora": {
+      "common_name": "Camphor Tree",
+      "scientific_name": "Cinnamomum camphora",
+      "description": "Cinnamomum camphora is an evergreen tree known for its aromatic leaves and wood, which yield camphor oil. Used in traditional medicine for its decongestant and insect-repellent properties, it is also a popular shade tree."
+    },
+    "Clove": {
+      "common_name": "Clove",
+      "scientific_name": "Syzygium aromaticum",
+      "description": "Clove is a tropical evergreen tree cultivated for its aromatic flower buds, used as a spice and in traditional medicine. Its essential oil has antiseptic and analgesic properties, commonly used in dental care."
+    },
+    "Coconut": {
+      "common_name": "Coconut",
+      "scientific_name": "Cocos nucifera",
+      "description": "Coconut is a tropical palm grown for its versatile fruit, providing water, milk, oil, and flesh. Used in food, cosmetics, and traditional medicine, its leaves and wood are also utilized in construction and crafts."
+    },
+    "Coffee_plant": {
+      "common_name": "Coffee",
+      "scientific_name": "Coffea spp.",
+      "description": "Coffee is a tropical shrub cultivated for its beans, which are roasted to produce the popular beverage. Rich in caffeine, it is a global commodity, and its leaves and cherries have traditional medicinal uses."
+    },
+    "Cotton": {
+      "common_name": "Cotton",
+      "scientific_name": "Gossypium spp.",
+      "description": "Cotton is a shrub grown for its soft, fibrous bolls used in textile production. A major global crop, its seeds yield oil and meal, while its cultivation has significant economic and environmental implications."
+    },
+    "Curry_Leaf": {
+      "common_name": "Curry Leaf",
+      "scientific_name": "Murraya koenigii",
+      "description": "Curry Leaf is a small tree whose aromatic leaves are a staple in Indian cuisine. Rich in antioxidants, it is used in traditional medicine to aid digestion, promote hair health, and manage diabetes."
+    },
+    "Cucumber": {
+      "common_name": "Cucumber",
+      "scientific_name": "Cucumis sativus",
+      "description": "Cucumber is a creeping vine grown for its crisp, refreshing fruit, used in salads and pickling. High in water content and antioxidants, it is valued for hydration and skin-soothing properties in cosmetics."
+    },
+    "Daisies": {
+      "common_name": "Daisy",
+      "scientific_name": "Bellis perennis",
+      "description": "Daisies are small, herbaceous plants with iconic white-petaled, yellow-centered flowers. Popular in ornamental gardens, they symbolize purity and are used in herbal remedies for their anti-inflammatory properties."
+    },
+    "Dodapatre": {
+      "common_name": "Indian Borage",
+      "scientific_name": "Plectranthus amboinicus",
+      "description": "Dodapatre is an aromatic herb used in traditional medicine for its decongestant and antimicrobial properties. Its thick, succulent leaves are consumed to treat colds, coughs, and digestive issues in Indian households."
+    },
+    "Ekka": {
+      "common_name": "Madar",
+      "scientific_name": "Calotropis gigantea",
+      "description": "Ekka is a large shrub with milky sap, used in Ayurveda for its anti-inflammatory and analgesic properties. Though toxic if ingested, its leaves and roots are applied topically for skin ailments and pain relief."
+    },
+    "Elaeocarpus_decipiens": {
+      "common_name": "Japanese Blueberry Tree",
+      "scientific_name": "Elaeocarpus decipiens",
+      "description": "Elaeocarpus decipiens is an evergreen tree valued for its glossy foliage and small, edible berries. Commonly used in landscaping for hedges and shade, it thrives in warm climates and attracts wildlife."
+    },
+    "Flowering_cherry": {
+      "common_name": "Flowering Cherry",
+      "scientific_name": "Prunus spp.",
+      "description": "Flowering cherry trees are deciduous ornamentals renowned for their spectacular spring blossoms in pink or white. Widely planted in parks and gardens, they symbolize renewal and are a highlight of cherry blossom festivals."
+    },
+    "Fox_Nuts": {
+      "common_name": "Fox Nuts",
+      "scientific_name": "Euryale ferox",
+      "description": "Fox Nuts, or Makhana, are seeds from an aquatic plant, used as a nutritious snack in India. Rich in protein and antioxidants, they are consumed roasted or in desserts and have anti-aging properties."
+    },
+    "Gandaberunda": {
+      "common_name": "Gandaberunda",
+      "scientific_name": "Unknown",
+      "description": "Gandaberunda is not a recognized plant species but a mythical two-headed bird in Indian mythology, often depicted in art. No botanical equivalent exists, but the term may be confused with a regional plant name."
+    },
+    "Garden_Roses": {
+      "common_name": "Garden Rose",
+      "scientific_name": "Rosa spp.",
+      "description": "Garden Roses are flowering shrubs prized for their fragrant, colorful blooms. Used in perfumes, cosmetics, and ornamental gardening, their petals have mild astringent properties in traditional herbal remedies."
+    },
+    "Gardenias": {
+      "common_name": "Gardenia",
+      "scientific_name": "Gardenia jasminoides",
+      "description": "Gardenias are evergreen shrubs with glossy leaves and fragrant, creamy-white flowers. Popular in perfumes and as ornamental plants, their extracts are used in traditional medicine for anti-inflammatory and calming effects."
+    },
+    "Guava": {
+      "common_name": "Guava",
+      "scientific_name": "Psidium guajava",
+      "description": "Guava is a tropical evergreen tree grown for its sweet, juicy fruit, rich in vitamin C and antioxidants. Its leaves are used in traditional medicine to treat diarrhea, diabetes, and oral health issues."
+    },
+    "Geranium": {
+      "common_name": "Geranium",
+      "scientific_name": "Pelargonium spp.",
+      "description": "Geraniums are flowering plants with vibrant blooms and aromatic leaves, popular in gardens and as houseplants. Their essential oils are used in aromatherapy and cosmetics for their uplifting and skin-soothing properties."
+    },
+    "Ginkgo_biloba": {
+      "common_name": "Ginkgo",
+      "scientific_name": "Ginkgo biloba",
+      "description": "Ginkgo biloba is a deciduous tree with fan-shaped leaves, known for its resilience and medicinal properties. Used in supplements to improve memory and circulation, it is one of the oldest living tree species."
+    },
+    "Grape": {
+      "common_name": "Grape",
+      "scientific_name": "Vitis vinifera",
+      "description": "Grape is a woody vine cultivated for its juicy fruits, used in wine, juice, and fresh consumption. Rich in resveratrol, grapes have antioxidant properties, and their seeds yield oil used in cosmetics."
+    },
+    "Hibiscus": {
+      "common_name": "Hibiscus",
+      "scientific_name": "Hibiscus rosa-sinensis",
+      "description": "Hibiscus is a flowering shrub with vibrant red, pink, or yellow blooms, used in ornamental gardens and herbal teas. Its flowers and leaves promote hair growth and have antihypertensive properties in traditional medicine."
+    },
+    "Honge": {
+      "common_name": "Pongamia",
+      "scientific_name": "Millettia pinnata",
+      "description": "Honge is a deciduous tree valued for its seeds, which yield oil used in biofuels and traditional medicine. Its leaves and bark have anti-inflammatory properties, and it is planted for shade and soil enrichment."
+    },
+    "Hydrangeas": {
+      "common_name": "Hydrangea",
+      "scientific_name": "Hydrangea macrophylla",
+      "description": "Hydrangeas are flowering shrubs with large, colorful blooms that change hue based on soil pH. Popular in ornamental gardens, their leaves and roots have been used in traditional medicine for diuretic effects."
+    },
+    "Insulin": {
+      "common_name": "Insulin Plant",
+      "scientific_name": "Costus igneus",
+      "description": "Insulin Plant is a medicinal herb used in Ayurveda to manage diabetes. Its leaves are consumed to lower blood sugar levels, and it is grown as an ornamental plant for its spiral foliage."
+    },
+    "Jasmine": {
+      "common_name": "Jasmine",
+      "scientific_name": "Jasminum spp.",
+      "description": "Jasmine is a fragrant flowering shrub used in perfumes, teas, and ornamental gardens. Its essential oil has calming and aphrodisiac properties, and its flowers are culturally significant in many traditions."
+    },
+    "Jowar": {
+      "common_name": "Sorghum",
+      "scientific_name": "Sorghum bicolor",
+      "description": "Jowar is a drought-tolerant grain crop used as a staple food in Africa and Asia. Rich in fiber and antioxidants, it is consumed as flour or fodder, supporting food security in arid regions."
+    },
+    "Jute": {
+      "common_name": "Jute",
+      "scientific_name": "Corchorus spp.",
+      "description": "Jute is a fibrous plant grown for its strong, biodegradable fibers used in textiles and packaging. Its young leaves are edible, and it plays a key role in sustainable agriculture."
+    },
+    "Koelreuteria_paniculata": {
+      "common_name": "Golden Rain Tree",
+      "scientific_name": "Koelreuteria paniculata",
+      "description": "Koelreuteria paniculata is a deciduous tree with clusters of yellow flowers and lantern-like seed pods. A popular ornamental, it provides shade and attracts pollinators, thriving in urban landscapes."
+    },
+    "Lemon": {
+      "common_name": "Lemon",
+      "scientific_name": "Citrus limon",
+      "description": "Lemon is a small evergreen tree grown for its tart, yellow fruit, used in culinary dishes, beverages, and cleaning. Rich in vitamin C, its juice and peel have antimicrobial and antioxidant properties."
+    },
+    "Lemongrass": {
+      "common_name": "Lemongrass",
+      "scientific_name": "Cymbopogon citratus",
+      "description": "Lemongrass is a tropical grass with a citrusy flavor, used in cooking, teas, and essential oils. Its antimicrobial and anti-inflammatory properties make it a staple in traditional medicine for digestion and relaxation."
+    },
+    "Lilies": {
+      "common_name": "Lily",
+      "scientific_name": "Lilium spp.",
+      "description": "Lilies are bulbous perennials with large, fragrant flowers in various colors. Popular in gardens and floral arrangements, they symbolize purity, and some species have mild medicinal uses in traditional remedies."
+    },
+    "Liquidambar_formosana": {
+      "common_name": "Chinese Sweetgum",
+      "scientific_name": "Liquidambar formosana",
+      "description": "Liquidambar formosana is a deciduous tree with star-shaped leaves and vibrant autumn foliage. Its resin is used in traditional medicine for pain relief, and it is planted for ornamental and shade purposes."
+    },
+    "Liriodendron_chinense": {
+      "common_name": "Chinese Tulip Tree",
+      "scientific_name": "Liriodendron chinense",
+      "description": "Liriodendron chinense is a deciduous tree with tulip-shaped leaves and yellow-green flowers. Valued for its timber and ornamental qualities, it is planted in parks and gardens for shade and aesthetic appeal."
+    },
+    "Magnolia_grandiflora": {
+      "common_name": "Southern Magnolia",
+      "scientific_name": "Magnolia grandiflora",
+      "description": "Magnolia grandiflora is an evergreen tree with large, fragrant white flowers and glossy leaves. A popular ornamental, its bark and flowers are used in traditional medicine for their calming and anti-inflammatory effects."
+    },
+    "Magnolia_liliflora": {
+      "common_name": "Lily Magnolia",
+      "scientific_name": "Magnolia liliflora",
+      "description": "Magnolia liliflora is a deciduous shrub with vibrant purple-pink flowers. Widely used in ornamental gardening, its bark has traditional medicinal uses for respiratory and anxiety-related conditions."
+    },
+    "Maize": {
+      "common_name": "Maize",
+      "scientific_name": "Zea mays",
+      "description": "Maize, or corn, is a staple grain crop used for food, fodder, and industrial products. Rich in carbohydrates, it is a dietary cornerstone globally, with its byproducts used in biofuels and plastics."
+    },
+    "Mango": {
+      "common_name": "Mango",
+      "scientific_name": "Mangifera indica",
+      "description": "Mango is a tropical evergreen tree grown for its sweet, juicy fruit, rich in vitamins A and C. Its leaves and bark are used in traditional medicine for their anti-inflammatory and antidiabetic properties."
+    },
+    "Michelia_chapensis": {
+      "common_name": "Champak",
+      "scientific_name": "Michelia chapensis",
+      "description": "Michelia chapensis is an evergreen tree with fragrant, creamy flowers, used in perfumes and ornamental gardening. Its wood is valued in furniture, and its extracts have traditional medicinal uses."
+    },
+    "Mint": {
+      "common_name": "Mint",
+      "scientific_name": "Mentha spp.",
+      "description": "Mint is a fragrant herb used in culinary dishes, teas, and essential oils. Its menthol content provides cooling and digestive benefits, making it a staple in traditional medicine and aromatherapy."
+    },
+    "Mustard_oil": {
+      "common_name": "Mustard",
+      "scientific_name": "Brassica juncea",
+      "description": "Mustard is a leafy plant grown for its seeds, which yield pungent oil and condiments. Its oil is used in cooking and traditional medicine for its warming and antimicrobial properties."
+    },
+    "Nagadali": {
+      "common_name": "Serpent Creeper",
+      "scientific_name": "Rauvolfia serpentina",
+      "description": "Nagadali is a medicinal shrub used in Ayurveda for its antihypertensive and sedative properties. Its roots are used to treat hypertension and mental disorders, making it a valuable plant in herbal medicine."
+    },
+    "Nithyapushpa": {
+      "common_name": "Night-flowering Jasmine",
+      "scientific_name": "Cestrum nocturnum",
+      "description": "Nithyapushpa is a shrub with intensely fragrant flowers that bloom at night. Used in ornamental gardens and perfumes, its leaves have traditional medicinal uses for pain relief and skin conditions."
+    },
+    "Nooni": {
+      "common_name": "Indian Mulberry",
+      "scientific_name": "Morinda citrifolia",
+      "description": "Nooni, or Noni, is a tropical tree whose fruit is used in traditional medicine for its immune-boosting and anti-inflammatory properties. Though pungent, its juice is consumed for overall wellness."
+    },
+    "Olive_tree": {
+      "common_name": "Olive",
+      "scientific_name": "Olea europaea",
+      "description": "Olive is a Mediterranean evergreen tree grown for its fruit and oil, rich in healthy fats and antioxidants. Its leaves have traditional medicinal uses for cardiovascular health and immune support."
+    },
+    "Orchids": {
+      "common_name": "Orchid",
+      "scientific_name": "Orchidaceae spp.",
+      "description": "Orchids are diverse flowering plants prized for their exotic blooms and vibrant colors. Used in ornamental gardening and floristry, some species have traditional medicinal uses for respiratory and reproductive health."
+    },
+    "Osmanthus_fragrans": {
+      "common_name": "Sweet Osmanthus",
+      "scientific_name": "Osmanthus fragrans",
+      "description": "Osmanthus fragrans is an evergreen shrub with sweetly fragrant flowers, used in perfumes and teas. Its extracts have antioxidant properties, and it is a popular ornamental in Asian gardens."
+    },
+    "Papaya": {
+      "common_name": "Papaya",
+      "scientific_name": "Carica papaya",
+      "description": "Papaya is a tropical tree grown for its sweet, orange fruit, rich in vitamins and enzymes like papain. Its leaves and seeds are used in traditional medicine for digestion and parasitic infections."
+    },
+    "Pearl_millet": {
+      "common_name": "Pearl Millet",
+      "scientific_name": "Pennisetum glaucum",
+      "description": "Pearl Millet, or Bajra, is a drought-tolerant grain crop used as a staple in arid regions. Rich in protein and fiber, it is consumed as flour or fodder, supporting food security."
+    },
+    "Peonies": {
+      "common_name": "Peony",
+      "scientific_name": "Paeonia spp.",
+      "description": "Peonies are herbaceous perennials with large, fragrant flowers in vibrant colors. Popular in gardens and floral arrangements, their roots have traditional medicinal uses for pain relief and inflammation."
+    },
+    "Pepper": {
+      "common_name": "Black Pepper",
+      "scientific_name": "Piper nigrum",
+      "description": "Pepper is a climbing vine grown for its pungent berries, used as a spice and in traditional medicine. Rich in piperine, it aids digestion and has antioxidant and antimicrobial properties."
+    },
+    "Photinia_serratifolia": {
+      "common_name": "Chinese Photinia",
+      "scientific_name": "Photinia serratifolia",
+      "description": "Photinia serratifolia is an evergreen shrub with glossy leaves and red new growth, used in hedges and ornamental gardens. Its berries attract birds, and it thrives in temperate climates."
+    },
+    "Pineapple": {
+      "common_name": "Pineapple",
+      "scientific_name": "Ananas comosus",
+      "description": "Pineapple is a tropical plant grown for its sweet, juicy fruit, rich in vitamin C and bromelain. Used in culinary dishes and traditional medicine, it aids digestion and reduces inflammation."
+    },
+    "Platanus": {
+      "common_name": "Plane Tree",
+      "scientific_name": "Platanus spp.",
+      "description": "Platanus is a deciduous tree with mottled bark and broad leaves, commonly planted for shade in urban areas. Its wood is used in furniture, and its leaves have traditional medicinal uses."
+    },
+    "Pomegranate": {
+      "common_name": "Pomegranate",
+      "scientific_name": "Punica granatum",
+      "description": "Pomegranate is a deciduous shrub grown for its juicy, ruby-red seeds, rich in antioxidants. Its fruit, juice, and peel are used in traditional medicine for heart health and anti-inflammatory effects."
+    },
+    "Prunus_cerasifera_atropurpurea": {
+      "common_name": "Purple Leaf Plum",
+      "scientific_name": "Prunus cerasifera f. atropurpurea",
+      "description": "Prunus cerasifera atropurpurea is a deciduous tree with striking purple foliage and pink spring blossoms. Used in ornamental landscaping, its small plums are edible but tart."
+    },
+    "Raktachandini": {
+      "common_name": "Red Sandalwood",
+      "scientific_name": "Pterocarpus santalinus",
+      "description": "Raktachandini is a deciduous tree valued for its red heartwood, used in furniture and traditional medicine. Its powder has anti-inflammatory and skin-soothing properties, often used in cosmetics."
+    },
+    "Rice": {
+      "common_name": "Rice",
+      "scientific_name": "Oryza sativa",
+      "description": "Rice is a staple grain crop grown in flooded fields, feeding billions globally. Rich in carbohydrates, it is a dietary cornerstone, with its bran and husk used in traditional remedies."
+    },
+    "Rose": {
+      "common_name": "Rose",
+      "scientific_name": "Rosa spp.",
+      "description": "Roses are flowering shrubs prized for their fragrant blooms and ornamental beauty. Used in perfumes, cosmetics, and herbal teas, their petals have astringent and calming properties."
+    },
+    "Salix_babylonica": {
+      "common_name": "Weeping Willow",
+      "scientific_name": "Salix babylonica",
+      "description": "Salix babylonica is a deciduous tree with graceful, drooping branches, planted for ornamental and shade purposes. Its bark, containing salicin, is used in traditional medicine for pain relief."
+    },
+    "Sapindus_saponaria": {
+      "common_name": "Soapberry",
+      "scientific_name": "Sapindus saponaria",
+      "description": "Sapindus saponaria is a deciduous tree whose fruits produce a natural soap-like substance used in cleaning. Its seeds and bark have traditional medicinal uses for skin and respiratory ailments."
+    },
+    "Sapota": {
+      "common_name": "Chikoo",
+      "scientific_name": "Manilkara zapota",
+      "description": "Sapota is a tropical evergreen tree grown for its sweet, brown fruit, rich in vitamins and fiber. Its latex is used in chewing gum, and its bark has traditional medicinal uses."
+    },
+    "Soybean": {
+      "common_name": "Soybean",
+      "scientific_name": "Glycine max",
+      "description": "Soybean is a legume crop grown for its protein-rich seeds, used in food, oil, and animal feed. A global commodity, its isoflavones have health benefits in traditional and modern diets."
+    },
+    "Styphnolobium_japonicum": {
+      "common_name": "Japanese Pagoda Tree",
+      "scientific_name": "Styphnolobium japonicum",
+      "description": "Styphnolobium japonicum is a deciduous tree with creamy flowers and ornamental seed pods. Used in urban landscaping, its flowers and bark have traditional medicinal uses for circulatory health."
+    },
+    "Sugarcane": {
+      "common_name": "Sugarcane",
+      "scientific_name": "Saccharum officinarum",
+      "description": "Sugarcane is a tall grass grown for its sweet stalks, used to produce sugar and ethanol. Its juice is consumed fresh, and its byproducts are used in traditional medicine and industry."
+    },
+    "Sunflower": {
+      "common_name": "Sunflower",
+      "scientific_name": "Helianthus annuus",
+      "description": "Sunflower is a tall annual grown for its large, bright flowers and edible seeds. Its oil is used in cooking, and its seeds are rich in vitamin E, making it a nutritious snack."
+    },
+    "Tea": {
+      "common_name": "Tea",
+      "scientific_name": "Camellia sinensis",
+      "description": "Tea is an evergreen shrub whose leaves are processed to produce the popular beverage. Rich in antioxidants, it has stimulating and health-promoting properties, with cultural significance worldwide."
+    },
+    "Tobacco_plant": {
+      "common_name": "Tobacco",
+      "scientific_name": "Nicotiana tabacum",
+      "description": "Tobacco is a leafy plant grown for its leaves, used in smoking and chewing products. Though controversial due to health risks, its nicotine has been studied for medicinal applications."
+    },
+    "Tomato": {
+      "common_name": "Tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "description": "Tomato is a fruit-bearing plant used as a vegetable in culinary dishes worldwide. Rich in lycopene, it has antioxidant properties, and its versatility makes it a staple in global cuisines."
+    },
+    "Triadica_sebifera": {
+      "common_name": "Chinese Tallow",
+      "scientific_name": "Triadica sebifera",
+      "description": "Triadica sebifera is a deciduous tree with vibrant autumn foliage, used in ornamental landscaping. Its seeds yield oil, but it is considered invasive in some regions due to rapid spread."
+    },
+    "Tulasi": {
+      "common_name": "Tulsi",
+      "scientific_name": "Ocimum tenuiflorum",
+      "description": "Tulsi, or Holy Basil, is a sacred herb in India, revered for its medicinal and spiritual properties. Used in Ayurveda to boost immunity and reduce stress, its leaves are consumed in teas."
+    },
+    "Tulips": {
+      "common_name": "Tulip",
+      "scientific_name": "Tulipa spp.",
+      "description": "Tulips are bulbous perennials with vibrant, cup-shaped flowers, popular in ornamental gardens. Symbolizing love and spring, they are a floristry favorite, with no significant medicinal uses."
+    },
+    "Vigna_radiata": {
+      "common_name": "Mung Bean",
+      "scientific_name": "Vigna radiata",
+      "description": "Mung Bean is a legume grown for its nutritious seeds, used in sprouts, soups, and desserts. Rich in protein and fiber, it is a dietary staple in Asia with detoxifying properties."
+    },
+    "Wheat": {
+      "common_name": "Wheat",
+      "scientific_name": "Triticum aestivum",
+      "description": "Wheat is a staple grain crop used to produce flour for bread, pasta, and pastries. Rich in carbohydrates, it is a global dietary cornerstone, with its bran used in health foods."
+    },
+    "Wood_sorel": {
+      "common_name": "Wood Sorrel",
+      "scientific_name": "Oxalis spp.",
+      "description": "Wood Sorrel is a small herb with clover-like leaves and a tangy flavor, used in salads and traditional medicine. Rich in vitamin C, it has diuretic and cooling properties."
+    },
+    "Zelkova_serrata": {
+      "common_name": "Japanese Zelkova",
+      "scientific_name": "Zelkova serrata",
+      "description": "Zelkova serrata is a deciduous tree with serrated leaves and attractive bark, used in bonsai and urban landscaping. Its wood is valued in furniture, and it provides excellent shade."
+    }
+  }
