@@ -19,7 +19,7 @@ venv/
 *.swo
 
 # Dataset files (since they're on Kaggle)
-data/
+
 datasets/
 !data/plants_info.json  # Keep this config file
 

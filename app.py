@@ -1,12 +1,14 @@
+import sys
+sys.path.insert(0, '/path/to/your/project_root') 
+from utils.preprocess import preprocess_image
 import streamlit as st
 import tensorflow as tf
 import json
 from PIL import Image
 import numpy as np
 import os
-from utils.preprocess import preprocess_image
-from utils.data_loader import download_dataset
-from utils.preprocess import preprocess_image
+from plant_utils.preprocess import preprocess_image
+from .utils.preprocess import preprocess_image  # Note the dot
 
 # Initialize Kaggle dataset
 if not os.path.exists('data/train'):
